@@ -2,6 +2,7 @@
 
 import time
 import unicodedata
+import tweepy
 import Queue as queue
 from sys import exit
 import scrollphathd
